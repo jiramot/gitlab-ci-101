@@ -1,4 +1,4 @@
-#GITLAB CI 101
+#Pipeline 101
 ## Files
 |-helm
 |-main.go
